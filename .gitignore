@@ -1,0 +1,8 @@
+.DS_Store
+flask-server/env/
+client/src/.gitignore
+client/src/README.md
+*.pyc
+__pycache__
+*secrets.*
+.vscode/*
